@@ -52,28 +52,28 @@ leaveTo="transform opacity-0 scale-95"
 <Menu.Items className="absolute right-0  w-[83.5%] left-0 origin-top-right divide-y divide-gray-200 rounded-b-md bg-[#FF5C00] shadow-lg focus:outline-none">
 <div className="py-1">
 <Menu.Item>
-<a href="#" className="block px-4 py-6 text-sm">
+<a href="#" className="flex justify-center px-4 py-6 text-sm ">
 <img src="/Vector.svg" alt="" />
 </a>
 </Menu.Item>
 <Menu.Item>
-<a href="#" className="block px-4 py-6 text-sm">
+<a href="#" className="flex justify-center px-4 py-6 text-sm">
 <img src="/Vector-1.svg" alt="" />
 </a>
 </Menu.Item>
 <Menu.Item>
-<a href="#" className="block px-4 py-6 text-sm">
+<a href="#" className="flex justify-center px-4 py-6 text-sm">
 <img src="/Vector-2.svg" alt="" />
 </a>
 </Menu.Item>
 <Menu.Item>
-<a href="#" className="block px-4 py-6 text-sm">
+<a href="#" className="flex justify-center px-4 py-6 text-sm">
 <img src="/CALL_OF_DUTY.svg" alt="" />
 </a>
 </Menu.Item>
 
 <Menu.Item>
-<a href="#" className="block px-4 py-6 text-sm">
+<a href="#" className="flex justify-center px-4 py-6 text-sm">
 <img src="/Vector-3.svg" alt="" />
 </a>
 </Menu.Item>
