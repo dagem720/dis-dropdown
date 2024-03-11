@@ -15,8 +15,8 @@ return (
 <div>
 <Menu.Button
 className={classNames(
-open ? "!rounded-b-none" : "",
-"flex  justify-between !p-0 !h-12 overflow-hidden !w-48 !border-0 place-items-center   rounded-t-md bg-[#FF5C00]  text-sm font-medium text-white  focus:outline-none focus-visible:ring-2 focus-visible:ring-white/75"
+open ? "rounded-b-none" : "",
+"flex  justify-between p-0 h-12 overflow-hidden w-48 border-0 place-items-center   rounded-t-md bg-[#FF5C00]  text-sm font-medium text-white  focus:outline-none focus-visible:ring-2 focus-visible:ring-white/75"
 )}
 >
 <div
